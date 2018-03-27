@@ -42,6 +42,9 @@ public class gelang_aksi {
         indonesia.aksesoris();
         
         
+        indonesia.aksesoris();
+        
+        
         
     }
     
